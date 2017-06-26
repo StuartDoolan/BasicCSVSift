@@ -1,0 +1,21 @@
+Hostname,IP Address,Patched?,OS Version,Notes
+A.example.COM,1.1.1.1,NO,11,Faulty fans
+b.example.com,1.1.1.2,no,13,Behind the other routers so no one sees it
+C.EXAMPLE.COM,1.1.1.3,no,12.1,
+,,,,
+,,,,
+d.example.com,1.1.1.4,yes,14,
+c.example.com,1.1.1.5,no,12,Case a bit loose
+e.example.com,1.1.1.6,no,12.3,
+f.example.com,1.1.1.7,No,12.2,
+g.example.com,1.1.1.6,no,15,Guarded by sharks with lasers on their heads
+notawebsite,notIP,NO,sixteen,fhergiuherg
+do.i.work,234.71.1.12,not a no,,
+really.tho.com,12.3,not quite a yes,12, 
+h.example.com,,no,15,no ip
+i.example.COM,212.90.3.4,no,14,should print
+,,,,
+,,,,
+j.example.com,90.72.12.3,no,12,should also print
+notawebsite///,not ip,,12,
+[][][,256.12.0.0,no,12,
